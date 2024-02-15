@@ -1,0 +1,32 @@
+body{
+    box-sizing: border-box;
+}
+
+.search{
+    width: 100%;
+}
+
+.search-button{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.item{
+    width: 20%;
+}
+
+img{
+    width: 100%;
+}
+
+h2{
+    margin: 0;
+    text-align: center;
+}
